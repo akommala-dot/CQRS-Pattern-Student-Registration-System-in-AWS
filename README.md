@@ -1,1 +1,1 @@
-# Student-Registration-System-in-AWS
+# CQRS Pattern – Student Registration System-in-AWS
